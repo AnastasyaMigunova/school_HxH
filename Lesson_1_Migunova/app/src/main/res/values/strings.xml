@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson_1_Migunova</string>
+    <string name="saveName">Сохранить</string>
+    <string name="enterName">Введите имя</string>
+    <string name="outputMasName">Вывести</string>
+    <string name="FirstScreen">Первый экран</string>
+    <string name="SecondScreen">Второй экран</string>
+    <string name="displayingNames">Вывести имена</string>
+</resources>
