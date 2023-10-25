@@ -22,20 +22,20 @@ class FirstActivity : AppCompatActivity() {
         // сохранение имени при нажатии на первую кнопку
         binding.button1.setOnClickListener {
             val name = studentName.text.toString()
-            if (name == "")
+            if (name == "") {
                 Toast.makeText(this, "Введите имя", Toast.LENGTH_SHORT).show()
-            else
+            }
+            else {
                 names.add(name)
+            }
         }
 
         // вывод списка имен при нажатии на вторую кнопку
         binding.button2.setOnClickListener {
             binding.textView.text = ""
 
-            names.sorted()
-
-            for (element in names) {
-                binding.textView.append(element + "\n")
+            names.forEach() {
+                binding.textView.append("${it}\n")
             }
         }
     }
