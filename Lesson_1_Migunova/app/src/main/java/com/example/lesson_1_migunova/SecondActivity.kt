@@ -8,14 +8,6 @@ import com.example.lesson_1_migunova.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity() {
 
-    data class Student(
-        val id: Long,
-        val name: String,
-        val surname: String,
-        val grade: String,
-        val birthdayYear: String
-    )
-
     private lateinit var binding: ActivitySecondBinding
     private val studentsMap = hashMapOf<Long, Student>()
 
@@ -34,16 +26,22 @@ class SecondActivity : AppCompatActivity() {
                 val data = studentName.text.toString()
 
                 val fields = data.split(" ").toTypedArray()
-                val (name, surname, grade, birthdayYear) = fields
 
-                val studentData = Student(
-                    id = System.currentTimeMillis(),
-                    name = name,
-                    surname = surname,
-                    grade = grade,
-                    birthdayYear = birthdayYear
-                )
-                studentsMap[studentData.id] = studentData
+                if (fields.size == 4) {
+                    val (name, surname, grade, birthdayYear) = fields
+
+                    val studentData = Student(
+                        id = System.currentTimeMillis(),
+                        name = name,
+                        surname = surname,
+                        grade = grade,
+                        birthdayYear = birthdayYear
+                    )
+
+                    studentsMap[studentData.id] = studentData
+                } else {
+                    Toast.makeText(this, "Введите 4 значения!", Toast.LENGTH_SHORT).show()
+                }
 
                 Toast.makeText(this, data, Toast.LENGTH_SHORT).show()
                 return@setOnKeyListener true
@@ -55,14 +53,9 @@ class SecondActivity : AppCompatActivity() {
         binding.button.setOnClickListener {
             textOutput.text = ""
 
-            for ((_, student) in studentsMap) {
+            studentsMap.forEach { (_, value) ->
                 textOutput.append(
-                    "${student.id} " +
-                    "${student.name} " +
-                    "${student.surname} " +
-                    "${student.grade} " +
-                    "${student.birthdayYear}\n"
-                )
+                    "${value.id} ${value.name} ${value.surname} ${value.grade} ${value.birthdayYear}\n")
             }
         }
     }
