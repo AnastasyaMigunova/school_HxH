@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" >Lesson_2_Migunova</string>
-    <string name="FirstScreen">First Screen</string>
-    <string name="SecondScreen">Second Screen</string>
+    <string name="First_screen">First Screen</string>
+    <string name="Second_screen">Second Screen</string>
     <string name="text">Sorry, there is nothing</string>
     <string name="image">image</string>
     <string name="button">Боль и страдание</string>

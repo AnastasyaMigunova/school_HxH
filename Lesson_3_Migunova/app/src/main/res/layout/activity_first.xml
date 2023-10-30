@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".FirstActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="12dp"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:navigationIcon="@drawable/arrow_back"
+            app:title="Личный профиль" />
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            app:cardCornerRadius="2dp"
+            app:contentPadding="16dp">
+
+            <include  android:id="@+id/include_info"
+                layout="@layout/image_text_views">
+            </include>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <TextView
+        android:id="@+id/text_view_personal"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="16dp"
+        android:textSize="14sp"
+        android:textColor="?android:textColorSecondary"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/app_bar">
+    </TextView>
+
+    <include
+        android:id="@+id/include_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        layout="@layout/two_text_views"
+        app:layout_constraintTop_toBottomOf="@id/text_view_personal"
+        app:layout_constraintLeft_toLeftOf="parent">
+    </include>
+
+    <include
+        android:id="@+id/include_surname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/two_text_views"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/include_name">
+    </include>
+
+    <include
+        android:id="@+id/include_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/two_text_views"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/include_surname">
+    </include>
+
+    <include
+        android:id="@+id/include_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/two_text_views"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/include_email">
+    </include>
+
+    <include
+        android:id="@+id/include_region"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/two_text_views"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/include_login">
+    </include>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/edit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/edit_black"
+        android:background="?selectableItemBackground"
+        android:contentDescription="@string/edit_region"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="24dp"
+        app:layout_constraintBottom_toTopOf="@id/exit_button"
+        app:layout_constraintRight_toRightOf="parent">
+    </androidx.appcompat.widget.AppCompatButton>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/exit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/menu_exit"
+        android:textSize="16sp"
+        android:text="@string/exit_button"
+        android:gravity="start"
+        android:padding="24dp"
+        android:drawablePadding="32dp"
+        android:background="?selectableItemBackground"
+        app:layout_constraintTop_toBottomOf="@id/include_region">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

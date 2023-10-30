@@ -8,7 +8,7 @@
     tools:context=".SecondActivity">
 
     <ImageView
-        android:id="@+id/imageFirst"
+        android:id="@+id/image_first"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:background="@drawable/figure"
@@ -20,13 +20,13 @@
     </ImageView>
 
     <androidx.appcompat.widget.AppCompatButton
-    android:id="@+id/buttonFirst"
+    android:id="@+id/button_first"
     android:layout_width="wrap_content"
     android:layout_height="0dp"
     android:layout_marginTop="16dp"
     android:text="@string/button1"
     android:background="@drawable/button_state"
-    app:layout_constraintTop_toBottomOf="@id/imageFirst"
+    app:layout_constraintTop_toBottomOf="@id/image_first"
     app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintRight_toRightOf="parent">
 </androidx.appcompat.widget.AppCompatButton>

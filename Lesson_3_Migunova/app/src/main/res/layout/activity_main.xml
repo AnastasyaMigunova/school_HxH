@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_marginTop="150dp"
-        android:text="@string/First_screen"
+        android:text="@string/first_screen"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toLeftOf="@id/button_second_screen"
         app:layout_constraintTop_toTopOf="parent">
@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_marginTop="150dp"
-        android:text="@string/Second_screen"
+        android:text="@string/second_screen"
         app:layout_constraintLeft_toRightOf="@+id/button_first_screen"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">

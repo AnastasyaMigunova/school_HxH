@@ -7,11 +7,12 @@
     tools:context=".FirstActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
         android:text="@string/text"
+        android:textColor="@color/my_text"
         android:textSize="20sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -21,12 +22,12 @@
         android:id="@+id/image"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:src="@drawable/picture"
         android:layout_marginTop="16dp"
         android:contentDescription="@string/image"
-        app:layout_constraintTop_toBottomOf="@id/textView"
+        android:src="@drawable/picture"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent">
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_view">
     </ImageView>
 
     <Button
