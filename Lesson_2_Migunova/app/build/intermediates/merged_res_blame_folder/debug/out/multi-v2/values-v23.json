@@ -1,0 +1,76 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lesson_2_migunova.app-mergeDebugResources-30:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Lesson_2_Migunova\\app\\src\\main\\res\\values-v23\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\65sar\\.gradle\\caches\\transforms-3\\7bfb54e5d1627dbafe92f9b455ff2224\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,21,35,36,37,40,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,243,378,453,540,1278,2028,2147,2274,2496,2720,2835,2942,3055",
+                        "endLines": "3,4,5,6,20,34,35,36,39,43,44,45,46,50",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "238,373,448,535,1273,2023,2142,2269,2491,2715,2830,2937,3050,3280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\65sar\\.gradle\\caches\\transforms-3\\f7dffa55bd3b8c6d7559cf87e7e15b04\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "3285",
+                        "endLines": "53",
+                        "endColumns": "12",
+                        "endOffsets": "3430"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\65sar\\.gradle\\caches\\transforms-3\\f50dce93ecdd3c41f1253885ee11a7f1\\transformed\\material-1.10.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,9,13,16,21,25,28,31,34,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,413,574,784,1104,1341,1548,1755,1958,2290,2492,2757",
+                        "endLines": "4,8,12,15,20,24,27,30,33,38,41,45,49",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,408,569,779,1099,1336,1543,1750,1953,2285,2487,2752,3025"
+                    },
+                    "to": {
+                        "startLines": "54,57,61,65,68,73,77,80,83,86,91,94,98",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3435,3651,3793,3954,4164,4484,4721,4928,5135,5338,5670,5872,6137",
+                        "endLines": "56,60,64,67,72,76,79,82,85,90,93,97,101",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "3646,3788,3949,4159,4479,4716,4923,5130,5333,5665,5867,6132,6405"
+                    }
+                }
+            ]
+        }
+    ]
+}
