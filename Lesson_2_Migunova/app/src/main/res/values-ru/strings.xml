@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >Lesson_2_Migunova</string>
+    <string name="First_screen">Первый экран</string>
+    <string name="Second_screen">Второй экран</string>
+    <string name="image">image</string>
+    <string name="text">Я помню чудное мгновенье:\n Передо мной явилась ты, \n Как мимолетное виденье, \n Как гений чистой красоты. \n</string>
+</resources>
