@@ -32,4 +32,6 @@ class CategoryViewHolder(
         textViewDescription.text = category.description
     }
 
+    fun
+
 }

@@ -33,6 +33,7 @@ class ItemsAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
                 }
             }
             is Category1ViewHolder -> {
+                
                 holder.bind((items[position] as ListItem.Category1Item).category1, position)
                 holder.itemView.setOnClickListener {
                     categoryListener.onCategory1Click((items[position] as ListItem.Category1Item).category1)
@@ -43,6 +44,9 @@ class ItemsAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     override fun getItemViewType(position: Int): Int {
         return if (items[position] is ListItem.Category1Item) {
+            if (items.getOrNull(position +1) is ListItem.CategoryItem && position % 2 == 0) {
+                TYPE_CATEGORY
+            } else
             TYPE_CATEGORY1
         } else {
             TYPE_CATEGORY
