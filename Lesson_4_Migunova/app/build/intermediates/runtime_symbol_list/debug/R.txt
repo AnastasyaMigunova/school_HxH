@@ -3694,8 +3694,8 @@ int layout design_navigation_menu 0x7f0b0029
 int layout design_navigation_menu_item 0x7f0b002a
 int layout design_text_input_end_icon 0x7f0b002b
 int layout design_text_input_start_icon 0x7f0b002c
-int layout item_category 0x7f0b002d
-int layout item_category1 0x7f0b002e
+int layout item_base_info 0x7f0b006c
+int layout item_detail_info 0x7f0b006d
 int layout m3_alert_dialog 0x7f0b002f
 int layout m3_alert_dialog_actions 0x7f0b0030
 int layout m3_alert_dialog_title 0x7f0b0031
@@ -3806,7 +3806,6 @@ int string clear_text_end_icon_content_description 0x7f100029
 int string contacts 0x7f10002a
 int string counter_description 0x7f10002b
 int string counter_title 0x7f10002c
-int string empty 0x7f10002d
 int string error_a11y_label 0x7f10002e
 int string error_icon_content_description 0x7f10002f
 int string exposed_dropdown_menu_content_description 0x7f100030

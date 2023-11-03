@@ -3695,8 +3695,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout item_category
-layout item_category1
+layout item_base_info
+layout item_detail_info
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3807,7 +3807,6 @@ string clear_text_end_icon_content_description
 string contacts
 string counter_description
 string counter_title
-string empty
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description

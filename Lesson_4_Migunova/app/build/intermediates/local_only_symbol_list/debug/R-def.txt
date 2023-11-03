@@ -34,8 +34,8 @@ id textViewCategory
 id textViewDescription
 id toolbar
 layout activity_main
-layout item_category
-layout item_category1
+layout item_base_info
+layout item_detail_info
 menu main_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -45,7 +45,6 @@ string bill_title
 string contacts
 string counter_description
 string counter_title
-string empty
 string homephone_description
 string homephone_title
 string info_app
