@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lesson_6_Migunova</string>
+    <string name="g1_item1">g1_item1</string>
+    <string name="g1_item2">g1_item2</string>
+    <string name="g1_item3">g1_item3</string>
+    <string name="item_one">Item one</string>
+    <string name="item_two">Item two</string>
+    <string name="item_three">Item three</string>
+    <string name="hint_35">35</string>
+    <string name="cold_water">Холодная вода</string>
+    <string name="hot_water">Горячая вода</string>
+    <string name="new_indications">Новые показания</string>
+    <string name="text_alert">Необходимо подать показания до 25.03.18</string>
+    <string name="energy">Электроэнергия</string>
+    <string name="energy_text_alert">Показания сданы 16.02.18 и будут учтены при следующем расчете 25.02.18</string>
+    <string name="text_day">День</string>
+    <string name="text_month">Месяц</string>
+    <string name="text_pick">Пик</string>
+    <string name="number">54656553</string>
+    <string name="show_banner">Показать баннер</string>
+    <string name="hide_banner">Свернуть баннер</string>
+    <string name="find_item_title">find item</string>
+    <string name="lamp_item_title">lamp item</string>
+</resources>
