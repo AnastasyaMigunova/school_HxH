@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_fifth.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_fifth.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_four.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_fourth.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_fourth.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_first.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_second.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "com.example.lesson_5_migunova.app-mergeDebugResources-31:/layout/activity_fifth.xml",
+        "source": "com.example.lesson_5_migunova.app-main-34:/layout/activity_fifth.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-mergeDebugResources-31:\\layout\\activity_third.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_5_migunova.app-main-34:\\layout\\activity_third.xml"
+    }
+]
