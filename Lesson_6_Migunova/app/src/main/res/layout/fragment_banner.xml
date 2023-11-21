@@ -11,13 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <com.google.android.material.tabs.TabLayout
-        android:id="@+id/tableLayout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/viewPager"
-        android:visibility="visible" />
-
     <com.tbuonomo.viewpagerdotsindicator.SpringDotsIndicator
         android:id="@+id/spring_dots_indicator"
         android:layout_width="wrap_content"

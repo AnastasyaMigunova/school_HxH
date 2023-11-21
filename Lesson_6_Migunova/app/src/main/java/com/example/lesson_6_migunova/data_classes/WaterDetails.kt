@@ -2,12 +2,12 @@ package com.example.lesson_6_migunova.data_classes
 
 data class WaterDetails(
     val image : Int,
-    val item_name : String,
+    val itemName : String,
     val barcode: Int,
-    val serial_number: String,
+    val serialNumber: String,
     val info: Int,
-    val three_dots_info: Int,
-    val new_indications: String,
-    val icon_alert: Int,
-    val text_alert: String,
+    val threeDotsInfo: Int,
+    val newIndications: String,
+    val iconAlert: Int,
+    val textAlert: String,
 )

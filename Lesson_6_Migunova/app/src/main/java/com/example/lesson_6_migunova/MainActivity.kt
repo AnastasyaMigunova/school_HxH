@@ -12,6 +12,7 @@ import com.example.lesson_6_migunova.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity(), OnItemClickListener {
 
     private val binding by viewBinding(ActivityMainBinding::bind)
+
     private val firstItemFragment = FirstFragment.newInstance()
     private val secondItemFragment = SecondFragment.newInstance()
     private val thirdItemFragment = ThirdFragment.newInstance()
@@ -26,7 +27,8 @@ class MainActivity : AppCompatActivity(), OnItemClickListener {
             when (it.itemId) {
                 R.id.navigation_item_1 -> {
                     setFragment(firstItemFragment)
-                    true}
+                    true
+                }
                 R.id.navigation_item_2 -> {
                     setFragment(secondItemFragment)
                     true
@@ -44,7 +46,7 @@ class MainActivity : AppCompatActivity(), OnItemClickListener {
         Toast.makeText(this, text, Toast.LENGTH_SHORT).show()
     }
 
-            private fun setFragment(fragment : Fragment) {
+    private fun setFragment(fragment: Fragment) {
         supportFragmentManager.beginTransaction()
             .replace(R.id.fragment_container, fragment)
             .commit()
