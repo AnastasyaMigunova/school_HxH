@@ -39,16 +39,16 @@ class DetailsViewHolder(
         }
 
         mainIcon.setImageResource(waterDetails.image)
-        mainTitle.text= waterDetails.item_name
+        mainTitle.text= waterDetails.itemName
         barcode.setImageResource(waterDetails.barcode)
-        serialNumber.text = waterDetails.serial_number
+        serialNumber.text = waterDetails.serialNumber
         info.setImageResource(waterDetails.info)
-        threeDotsInfo.setImageResource(waterDetails.three_dots_info)
+        threeDotsInfo.setImageResource(waterDetails.threeDotsInfo)
 
-        textViewDay.text = waterDetails.new_indications
+        textViewDay.text = waterDetails.newIndications
 
-        icAlert.setImageResource(waterDetails.icon_alert)
-        textAlert.text = waterDetails.text_alert
+        icAlert.setImageResource(waterDetails.iconAlert)
+        textAlert.text = waterDetails.textAlert
 
     }
 
@@ -64,13 +64,13 @@ class DetailsViewHolder(
         textPick.editText.visibility = View.VISIBLE
 
         mainIcon.setImageResource(energyDetails.image)
-        mainTitle.text= energyDetails.item_name
+        mainTitle.text= energyDetails.itemName
         barcode.setImageResource(energyDetails.barcode)
-        serialNumber.text = energyDetails.serial_number
+        serialNumber.text = energyDetails.serialNumber
         info.setImageResource(energyDetails.info)
-        threeDotsInfo.setImageResource(energyDetails.three_dots_info)
+        threeDotsInfo.setImageResource(energyDetails.threeDotsInfo)
 
-        textAlert.text = energyDetails.text_alert
+        textAlert.text = energyDetails.textAlert
         textAlert.setTextColor(ContextCompat.getColor(context, R.color.black))
 
         editTextDay.updateLayoutParams {

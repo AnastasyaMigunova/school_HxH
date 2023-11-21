@@ -30,11 +30,12 @@ class SecondFragment : Fragment(R.layout.fragment_second) {
         binding.recyclerViewCategories.adapter = itemsAdapter.apply {
             infoListener = object : InfoListener {
                 override fun onWaterInfoClick(waterDetails: WaterDetails) {
-                    Snackbar.make(binding.root, waterDetails.item_name, Snackbar.LENGTH_SHORT).show()
+                    Snackbar.make(binding.root, waterDetails.itemName, Snackbar.LENGTH_SHORT).show()
                 }
 
                 override fun onEnergyInfoClick(energyDetails: EnergyDetails) {
-                    Snackbar.make(binding.root, energyDetails.item_name, Snackbar.LENGTH_SHORT).show()
+                    Snackbar.make(binding.root, energyDetails.itemName, Snackbar.LENGTH_SHORT)
+                        .show()
                 }
             }
         }
@@ -91,35 +92,8 @@ class SecondFragment : Fragment(R.layout.fragment_second) {
 
         itemsAdapter.setList(
             listOf(
-                *listWaterItems.map { waterItem ->
-                    val waterItem = WaterDetails(
-                        image = waterItem.waterDetails.image,
-                        item_name = waterItem.waterDetails.item_name,
-                        barcode = waterItem.waterDetails.barcode,
-                        serial_number = waterItem.waterDetails.serial_number,
-                        info = waterItem.waterDetails.info,
-                        three_dots_info = waterItem.waterDetails.three_dots_info,
-                        new_indications = waterItem.waterDetails.new_indications,
-                        icon_alert = waterItem.waterDetails.icon_alert,
-                        text_alert = waterItem.waterDetails.text_alert,
-                    )
-                    ListItem.WaterDetailsItem(waterItem)
-                }.toTypedArray(),
-                *listEnergyItems.map { energyItem ->
-                    val energyItem = EnergyDetails(
-                        image = energyItem.energyDetails.image,
-                        item_name = energyItem.energyDetails.item_name,
-                        barcode = energyItem.energyDetails.barcode,
-                        serial_number = energyItem.energyDetails.serial_number,
-                        info = energyItem.energyDetails.info,
-                        three_dots_info = energyItem.energyDetails.three_dots_info,
-                        text_alert = energyItem.energyDetails.text_alert,
-                        day = energyItem.energyDetails.day,
-                        month = energyItem.energyDetails.month,
-                        pick = energyItem.energyDetails.pick,
-                    )
-                    ListItem.EnergyDetailsItem(energyItem)
-                }.toTypedArray()
+                *listWaterItems.toTypedArray(),
+                *listEnergyItems.toTypedArray()
             )
         )
 
@@ -128,7 +102,7 @@ class SecondFragment : Fragment(R.layout.fragment_second) {
     }
 
     companion object {
-        fun newInstance() : SecondFragment {
+        fun newInstance(): SecondFragment {
             return SecondFragment()
         }
     }

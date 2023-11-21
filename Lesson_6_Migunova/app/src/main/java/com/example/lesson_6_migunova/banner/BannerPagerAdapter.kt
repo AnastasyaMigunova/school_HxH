@@ -15,11 +15,6 @@ class BannerPagerAdapter(fragment: Fragment) : FragmentStateAdapter(fragment) {
     override fun getItemCount(): Int = pages.size
 
     override fun createFragment(position: Int): Fragment {
-        pages[position].setOnItemClickListener(object : OnItemClickListener {
-            override fun onItemClick(text: String) {
-                (pages[position].requireActivity() as? OnItemClickListener)?.onItemClick(text)
-            }
-        })
         return pages[position]
     }
 }
