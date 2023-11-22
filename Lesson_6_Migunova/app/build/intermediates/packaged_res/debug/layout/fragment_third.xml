@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".banner.ThirdFragment">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbarThird"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="10dp">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            app:menu="@menu/third_menu"
+            app:title="@string/item_three"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_show_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="110dp"
+        android:text="@string/show_banner" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragment_banner"
+        app:layout="@layout/fragment_banner"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        tools:layout= "@layout/fragment_banner"/>
+
+</LinearLayout>

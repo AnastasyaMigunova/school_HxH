@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-hdpi_first_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-hdpi\\first_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\menu_second_menu.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\menu\\second_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-hdpi_third_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-hdpi\\third_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xhdpi_first_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xhdpi\\first_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-mdpi_second_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-mdpi\\second_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_water_hot.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_water_hot.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\menu_third_menu.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\menu\\third_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_electro_copy.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_electro_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-hdpi_second_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-hdpi\\second_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxxhdpi_second_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxxhdpi\\second_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxxhdpi_third_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxxhdpi\\third_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_first_cat_background.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\first_cat_background.xml"
+    },
+    {
+        "merged": "com.example.lesson_6_migunova.app-merged_res-33:/menu_first_menu.xml.flat",
+        "source": "com.example.lesson_6_migunova.app-main-35:/menu/first_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_lamp.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_lamp.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_fill_7.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\fill_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_fragment_banner_page.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_banner_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxhdpi_second_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxhdpi\\second_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxhdpi_first_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxhdpi\\first_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-mdpi_third_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-mdpi\\third_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxhdpi_third_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxhdpi\\third_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_fragment_third.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_serial_number.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_serial_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_two_texts.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\two_texts.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_third_cat_background.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\third_cat_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_second_cat_background.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\second_cat_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_alert.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-mdpi_first_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-mdpi\\first_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_fragment_banner.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxxhdpi_first_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxxhdpi\\first_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xhdpi_second_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xhdpi\\second_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_find_item.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\find_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-xhdpi_third_cat.png.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-xhdpi\\third_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\menu_first_menu.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\menu\\first_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_water_cold.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_water_cold.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\layout_item_detail.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-merged_res-33:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "com.example.lesson_6_migunova.app-merged_res-33:/layout_fragment_banner.xml.flat",
+        "source": "com.example.lesson_6_migunova.app-main-35:/layout/fragment_banner.xml"
+    }
+]
