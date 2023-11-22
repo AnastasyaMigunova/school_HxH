@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\fragment_third.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\fragment_banner_page.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_banner_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\two_texts.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\two_texts.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\fragment_banner.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\fragment_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-mergeDebugResources-32:\\layout\\item_detail.xml",
+        "source": "C:\\Users\\65sar\\.gradle\\daemon\\7.5\\com.example.lesson_6_migunova.app-main-35:\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "com.example.lesson_6_migunova.app-mergeDebugResources-32:/layout/fragment_banner.xml",
+        "source": "com.example.lesson_6_migunova.app-main-35:/layout/fragment_banner.xml"
+    }
+]
